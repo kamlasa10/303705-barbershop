@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/18/user/303705).
+* Студент: [Али Ша Имран](https://up.htmlacademy.ru/htmlcss/18/user/303705).
 
 ---
 
